@@ -1,0 +1,12 @@
+uuid: 821985cc-d79b-4cae-9b61-97124880b132
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - deepthirera@gmail.com
+reply: ''
+weight: 0
