@@ -1,4 +1,4 @@
-uuid: 1e36e72a-5ced-4060-9b06-061cd24eb792
+uuid: 4b2238e1-06a6-4c49-b95c-9220135837ee
 langcode: en
 status: true
 dependencies:
@@ -9,7 +9,7 @@ _core:
 id: bartik_local_actions
 theme: bartik
 region: content
-weight: -20
+weight: -7
 provider: null
 plugin: local_actions_block
 settings:

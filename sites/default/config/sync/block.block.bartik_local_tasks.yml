@@ -1,4 +1,4 @@
-uuid: a5ba9f32-4216-4144-9357-876ebe895bda
+uuid: f6079ef5-b23c-4b1a-8b07-7ac0b9c0952e
 langcode: en
 status: true
 dependencies:
@@ -9,7 +9,7 @@ _core:
 id: bartik_local_tasks
 theme: bartik
 region: content
-weight: -40
+weight: -7
 provider: null
 plugin: local_tasks_block
 settings:
